@@ -93,6 +93,10 @@ a.grouppageheadermove{
   position:fixed;
   left:52%;
 }
+a.discordinvitemove{
+  position: fixed;
+  left: 30%;
+}
 div.opacitylowered{
   opacity:0.4;
 }
