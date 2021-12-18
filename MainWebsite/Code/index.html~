@@ -12,7 +12,7 @@
     <div> <!--Header fotter and text.--> 
       <a> <!-- Background Image.-->
         <img src="../Images/background.jpg" class="lowTransparency" width="100%" height="100%" style="overflow:hidden">
-        <img src="../Images/projectaktuun.png" class="lowTransparencySeal" width="25%" height="25%" style="overflow:hidden; position:absolute; top:20%; right:37.4%;" id="target-id">
+        <img src="../Images/projectaktuun.png" class="lowTransparencySeal fixelement" width="25%" height="25%" style="overflow:hidden; position:absolute; top:20%; right:37.4%;" id="target-id">
       </a>
       <div class="fixed-header"> <!--Header-->
 	<nav>
@@ -31,6 +31,21 @@
         <div class="container">Copyright &copy; 2021 Ak'Tuun Family.</div>
       </div>
     </div>
+    <section>
+	    <div class="elementcontainer">
+		<h2>History of Ak'Tuun</h2>
+		<div class="cards">
+			<div class="text-card">
+				<h3>Origin</h3>
+				<p>Lorem Ipsum dolor sit amet, consecetur adipiscing elit, sed do eisumod tempor</p>
+			</div>
+			<div class="text-card">
+				<h3>Founders</h3>
+				<p>Lorem Ipsum dolar sit amet, con secetyr adipiscing elit, sed do eisumod tempor</p>
+			</div>
+		</div>
+	    </div>
+    </section>
   </body>
 </html>
 
