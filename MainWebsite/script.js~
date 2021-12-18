@@ -1,3 +1,7 @@
+window.onscroll(function(){
+	document.getElementById("target-id").style.display = "hidden";
+});
+
 window.addEventListener('scroll', function() {
 		var element = document.querySelector('#main-container');
 		var position = element.getBoundingClientRect();
